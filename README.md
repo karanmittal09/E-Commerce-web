@@ -15,7 +15,7 @@ https://e-commerce-web-w5zf.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![App Screenshot](images/shot.png)
 
 
 
