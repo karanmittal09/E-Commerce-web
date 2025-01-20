@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import toast from "react-hot-toast";
 
 const Products = () => {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState([])
   const [filter, setFilter] = useState(data);
   const [loading, setLoading] = useState(false);
   let componentMounted = true;
